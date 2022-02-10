@@ -32,7 +32,7 @@ SECRET_KEY = 'django-insecure-$_3(j-5etuaqu$ve++y4h6r$4-=-u5$xq(scb_ma1z0j6u+7tt
 DEBUG = os.environ.get("DEBUG", False)
 
 # 本番では、使用するドメインを記述する
-ALLOWED_HOSTS = ['localhost', '127.0.0.1','18.195.190.32', '52.22.117.194']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1','18.195.190.32', '52.195.1.178']
 
 
 # Application definition
